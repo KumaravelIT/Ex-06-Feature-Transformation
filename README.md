@@ -1,4 +1,10 @@
 # Ex-06-Feature-Transformation
+# DATE:
+
+GITHUB:https://github.com/KumaravelIT/Ex-06-Feature-Transformation.git
+
+
+COLAB:https://colab.research.google.com/drive/1tReShgYYCUREBJTE8TJbLLu_p6HKVPv6?usp=sharing
 
 # AIM
 
